@@ -1,0 +1,79 @@
+/* BlogForm.css */
+.form-control {
+    margin-bottom: 1rem;
+  }
+  
+  .form-control label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .form-control input,
+  .form-control textarea {
+    font: inherit;
+    padding: 0.25rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 100%;
+  }
+  
+  .form-actions {
+    text-align: right;
+  }
+  
+  .form-actions button {
+    font: inherit;
+    cursor: pointer;
+    padding: 0.5rem 1.5rem;
+    border: 1px solid #4000ff;
+    background-color: #4000ff;
+    color: white;
+    border-radius: 6px;
+  }
+  
+  .form-actions button:hover,
+  .form-actions button:active {
+    background-color: #5100e6;
+    border-color: #5100e6;
+  }
+/* BlogForm.css */
+.form-control {
+    margin-bottom: 1rem;
+  }
+  
+  .form-control label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .form-control input,
+  .form-control textarea {
+    font: inherit;
+    padding: 0.25rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 100%;
+  }
+  
+  .form-actions {
+    text-align: right;
+  }
+  
+  .form-actions button {
+    font: inherit;
+    cursor: pointer;
+    padding: 0.5rem 1.5rem;
+    border: 1px solid #4000ff;
+    background-color: #4000ff;
+    color: white;
+    border-radius: 6px;
+  }
+  
+  .form-actions button:hover,
+  .form-actions button:active {
+    background-color: #5100e6;
+    border-color: #5100e6;
+  }
+    

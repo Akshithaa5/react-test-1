@@ -1,0 +1,30 @@
+.blog-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .blog-item {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .blog-item img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-item button {
+    margin-top: 10px;
+    padding: 6px 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .blog-item button:hover {
+    background-color: #0056b3;
+  }
